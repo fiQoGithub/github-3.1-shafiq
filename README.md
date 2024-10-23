@@ -1,6 +1,8 @@
 # github-3.1-shafiq
 assignment 3.1 cohort 7
 
+![image]([https://github.com/user-attachments/assets/79b0caf2-440a-42a6-933d-2c1162a5d51d](https://www.bing.com/images/search?view=detailV2&ccid=sKwViMqd&id=D7381B9EFED241EDDAA5C8CD5FE92E184D514406&thid=OIF.cSZCpImsoTg4CE%2bK2FvHcA&mediaurl=https%3a%2f%2fcrew.ghost.io%2fcontent%2fimages%2fsize%2fw1200%2f2022%2f11%2f5-Steps-to-quickly-find-best-software-engineers-on-Github.png&exph=426&expw=1200&q=github+images&simid=7060521488125&FORM=IRPRST&ck=712642A489ACA13838084F8AD85BC770&selectedIndex=62&itb=0))
+
 # GitHub Commands for Version Control
 
 This README provides a summary of some essential GitHub commands for version control.
